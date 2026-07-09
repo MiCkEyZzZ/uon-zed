@@ -1,0 +1,4 @@
+name = "УОН"
+path_suffixes = ["уон", "uon"]
+grammar = "uon"
+language_servers = ["uon-lsp"]
