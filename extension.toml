@@ -9,5 +9,5 @@ description = "Поддержка УОН для Zed"
 language = "УОН"
 
 [grammars.uon]
-repository = "file:///tmp/uon-grammar"
+repository = "https://github.com/MiCkEyZzZ/tree-sitter-uon"
 rev = "master"
