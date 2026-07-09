@@ -120,4 +120,4 @@ cargo build --release --target wasm32-wasi
 
 ## Лицензия
 
-MIT
+- [МТИ Лицензия](LICENSE)
