@@ -7,3 +7,7 @@ description = "Поддержка УОН для Zed"
 
 [language_servers.uon-lsp]
 language = "УОН"
+
+[grammars.uon]
+repository = "https://github.com/MiCkEyZzZ/tree-sitter-uon"
+rev = "main"
