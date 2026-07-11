@@ -11,3 +11,6 @@ language = "УОН"
 [grammars.uon]
 repository = "https://github.com/MiCkEyZzZ/tree-sitter-uon"
 rev = "main"
+
+[icons]
+uon = "icons/uon.svg"
